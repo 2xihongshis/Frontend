@@ -59,7 +59,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="css" scoped>
 .navigator{
     background-color: white;
     box-shadow: 0 0 0 1px rgb(0 0 0 / 3%), 0 2px 5px 1px rgb(0 0 0 / 5%);
@@ -76,3 +76,4 @@ export default {
 .nav-link:hover{
     color: #21d48f;
 }
+</style>
